@@ -10,7 +10,7 @@ while True:
         fortune = random.choice(fortunes)
         print("\nYour fortune: " + fortune + "\n")
     elif user.lower() == "no":
-        print("Thank you for using the Fortune Cookie Program. Goodbye!")
+        print("Thank you for using the Fortune Cookie Program. Goodbye! \n\n—hazellenuts")
         break
     else:
         print("Invalid input. Please type 'yes' or 'no'")
