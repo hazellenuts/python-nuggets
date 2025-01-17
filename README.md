@@ -31,7 +31,7 @@ These were my first steps into Python programming. I focused on understanding co
   _What I learned: Expanding logic and handling more complex rules._
 - 🤑 **Who Wants to Be a Millionaire**: A quiz game with multiple-choice questions.  
   _What I learned: Structuring a quiz and managing user interactions._
-- ❓ **Quiz Game**: A general-purpose quiz game.  
+- ❓ **Quiz Game**: A Star Trek quiz game.  
   _What I learned: Modular programming and reusability._
 - ⚔️ **Text-Based Adventure**: A simple adventure game with text-based choices.  
   _What I learned: Creating interactive narratives._
