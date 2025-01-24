@@ -1,0 +1,22 @@
+[
+    {
+        "name": "apples",
+        "qty": "a bag",
+        "status": "purchased"
+    },
+    {
+        "name": "banana",
+        "qty": "3",
+        "status": "purchased"
+    },
+    {
+        "name": "flour",
+        "qty": "1 kg",
+        "status": "purchased"
+    },
+    {
+        "name": "Butter",
+        "qty": "200 g",
+        "status": "pending"
+    }
+]

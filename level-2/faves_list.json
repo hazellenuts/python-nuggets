@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Food",
+        "items": [
+            "Beef Filone Sandwich",
+            "Pasta Carbonara"
+        ]
+    },
+    {
+        "category": "Color",
+        "items": [
+            "Savvy Red",
+            "Rose Berry",
+            "Iced Mango",
+            "Kiwi Colada"
+        ]
+    },
+    {
+        "category": "Sweets",
+        "items": [
+            "Cookies",
+            "Cotton Candy",
+            "Ice Cream"
+        ]
+    }
+]
