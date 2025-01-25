@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Pancake",
+        "ingredients": ["flour", "milk", "eggs", "sugar"],
+        "instructions": [
+            "Mix flour, milk, eggs, and sugar in a bowl.",
+            "Heat a non-stick pan over medium heat.",
+            "Pour 1/4 cup of batter onto the pan.",
+            "Cook until bubbles form, then flip and cook the other side."
+        ]
+    },
+    {
+        "name": "Donuts",
+        "ingredients": ["flour", "milk", "sugar", "yeast", "eggs", "butter", "salt", "oil for frying"],
+        "instructions": [
+            "In a bowl, mix warm milk, sugar, and yeast. Let it sit for 5 minutes until foamy.",
+            "Add flour, eggs, butter, and salt. Knead into a smooth dough.",
+            "Cover and let the dough rise for 1-2 hours until doubled in size.",
+            "Roll out the dough and cut into donut shapes.",
+            "Heat oil in a deep pan and fry donuts until golden brown.",
+            "Cool slightly, then glaze or coat with sugar."
+        ]
+    },
+    {
+        "name": "Pretzels",
+        "ingredients": ["flour", "water", "sugar", "yeast", "salt", "baking soda", "butter"],
+        "instructions": [
+            "Dissolve sugar and yeast in warm water. Let it sit for 5 minutes.",
+            "Add flour, salt, and melted butter. Knead into a smooth dough.",
+            "Let the dough rise for 1 hour until doubled in size.",
+            "Divide the dough and shape into pretzels.",
+            "Boil water with baking soda and briefly dip pretzels in the solution.",
+            "Bake at 220°C (425°F) for 12-15 minutes until golden brown."
+        ]
+    },
+    {
+        "name": "Cookies",
+        "ingredients": ["flour", "butter", "sugar", "eggs", "vanilla extract", "baking soda", "chocolate chips"],
+        "instructions": [
+            "Cream together butter and sugar until fluffy.",
+            "Add eggs and vanilla extract, then mix well.",
+            "Combine flour and baking soda, then fold into the wet mixture.",
+            "Stir in chocolate chips.",
+            "Scoop dough onto a baking sheet and bake at 180°C (350°F) for 10-12 minutes."
+        ]
+    },
+    {
+        "name": "Pizza",
+        "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "olive oil", "toppings of choice"],
+        "instructions": [
+            "Preheat the oven to 250°C (480°F).",
+            "Roll out the pizza dough and place it on a baking tray or stone.",
+            "Spread tomato sauce evenly over the dough.",
+            "Top with mozzarella cheese and desired toppings.",
+            "Drizzle with olive oil and bake for 10-12 minutes until the crust is golden and cheese is bubbly."
+        ]
+    },
+    {
+        "name": "Carbonara Pasta",
+        "ingredients": ["spaghetti", "egg yolks", "Parmesan cheese", "pancetta", "garlic", "black pepper"],
+        "instructions": [
+            "Cook spaghetti in salted boiling water until al dente. Reserve 1 cup of pasta water.",
+            "In a bowl, whisk egg yolks and Parmesan cheese until smooth.",
+            "Cook pancetta in a pan until crispy. Add minced garlic and cook briefly.",
+            "Toss hot spaghetti with pancetta and garlic. Remove from heat.",
+            "Quickly stir in the egg mixture, adding reserved pasta water as needed to create a creamy sauce.",
+            "Season with black pepper and serve immediately."
+        ]
+    }
+]
