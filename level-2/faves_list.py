@@ -1,5 +1,4 @@
 import json
-import os
 
 FAVES_FILES = "python-nuggets/level-2/faves_list.json"
 

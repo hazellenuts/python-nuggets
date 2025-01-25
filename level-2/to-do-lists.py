@@ -1,5 +1,4 @@
 import json
-import os
 
 TODO_FILE = "python-nuggets/level-2/todo.json"
 

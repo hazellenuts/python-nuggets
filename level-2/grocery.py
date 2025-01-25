@@ -1,5 +1,5 @@
 import json
-import os
+
 
 GROCERY_FILE = "python-nuggets/level-2/grocery.json"
 
