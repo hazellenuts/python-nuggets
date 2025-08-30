@@ -138,10 +138,4 @@ This level challenged me to build mini-games and advanced terminal projects. The
 
 ---
 
-## What’s Next? 🚀
-
-I’m excited to continue building more projects and exploring new areas of Python, such as web development, data science, and machine learning. Stay tuned for updates!
-
----
-
 Thanks for checking out my Python journey! 😊
